@@ -64,7 +64,7 @@ If you find any mistakes in this guide, _please_ submit a PR 👍🏻.
 
    ![image-20230516195434825](img/image-20230516195434825.png)
 
-7. Connect the Ethernet port of your computer to LAN port on the router.  Log in to the router using your favorite ssh client and account/password: `admin/admin`.
+7. Connect the Ethernet port of your computer to LAN port on the router.  Log in to the router using your favorite ssh client and account/password: `root/admin`.
 
    ![image-20230516195618159](img/image-20230516195618159.png)
 
