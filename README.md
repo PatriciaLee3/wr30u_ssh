@@ -70,7 +70,8 @@ If you find any mistakes in this guide, _please_ submit a PR 👍🏻.
 
 8. fix ssh 
 
-   ```mkdir /data/auto_ssh && cd /data/auto_ssh
+ ```shell
+mkdir /data/auto_ssh && cd /data/auto_ssh
 curl -O https://cdn.jsdelivr.net/gh/lemoeo/AX6S@main/auto_ssh.sh
 chmod +x auto_ssh.sh
 uci set firewall.auto_ssh=include
